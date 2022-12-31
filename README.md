@@ -7,6 +7,9 @@ pkg install git
 pkg install php
 ```
 ```
+git clone https://github.com/XAndroid1/Evil_link
+```
+```
 cd Evil_link
 ```
 ```
