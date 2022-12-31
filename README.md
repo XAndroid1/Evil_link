@@ -16,5 +16,5 @@ cd Evil_link
 chmod +x Evil_link.sh
 ```
 ```
-./Evil_link
+./Evil_link.sh
 ```
