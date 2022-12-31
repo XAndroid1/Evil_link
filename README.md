@@ -13,7 +13,7 @@ git clone https://github.com/XAndroid1/Evil_link
 cd Evil_link
 ```
 ```
-chmod 777 *
+chmod +x Evil_link.sh
 ```
 ```
 ./Evil_link
