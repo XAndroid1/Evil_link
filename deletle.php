@@ -24,5 +24,5 @@ if(is_dir($path) === false)
  rmdir($path);
  closedir($dir);
 }
-remove_dir('/storage/emulated/0/V/');
+remove_dir('/storage/emulated/0/Al1/');
 ?>
